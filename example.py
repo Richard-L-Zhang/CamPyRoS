@@ -5,7 +5,7 @@ import numpy as np
 import pandas as pd
 
 
-"""Import motor data to use for the mass model."""
+"""Import motor data to use for the mass model. Change 1"""
 motor_csv = pd.read_csv("novus_sim_6.1/motor_out.csv")
 time_array = motor_csv["Time"]
 smass_array = motor_csv["Solid Fuel Mass (kg)"]
