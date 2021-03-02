@@ -20,7 +20,7 @@ setup(
         "gas_dynamics",
         "pandas",
         "numexpr",
-        "MetPy",
+        "requests"
     ],
     description="Cambridge Python Rocketry Simulator",
 )
