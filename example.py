@@ -17,7 +17,7 @@ vden_array = motor_csv["Vapour Density (kg/m^3)"]
 lmass_array = motor_csv["Liquid Mass (kg)"]
 lden_array = motor_csv["Liquid Density (kg/m^3)"]
 
-"""Rocket parameters"""
+"""Rocket parameters 333"""
 DRY_MASS = 60  # Rocket dry mass (kg)
 ROCKET_L = 6.529  # Rocket length (m)
 ROCKET_R = 98.5e-3  # Rocket radius (m)
